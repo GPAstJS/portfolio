@@ -9,9 +9,9 @@ import { FaGoodreads } from "react-icons/fa";
 
 export const App = () => {
   return (
-    <main className="  py-[100px]  flex flex-col item justify-center   lg:flex-row  h-screen text-white">
-      <div className="w-full lg:w-[50%] flex px-[1rem] lg:px-0 lg:justify-center">
-        <div className=" px-[25px]  flex flex-col">
+    <main className="  py-[100px]  flex flex-col item justify-center   lg:flex-row  h-hscreen text-white ">
+      <div className="w-full lg:w-[50%] flex px-[1rem] lg:px-0 lg:justify-center static lg:relative">
+        <div className="static lg:fixed px-[25px]  flex flex-col">
           <h1 className="text-[36px]">Guilherme Albuquerque</h1>
           <h2 className="text-[24px]">Front End Engineer</h2>
           <p className="my-[25px]">
